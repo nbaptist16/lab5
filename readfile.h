@@ -1,0 +1,6 @@
+#ifndef READFILE_H
+#define READFILE_H
+
+//PUT YOUR FUNCTION PROTOTYPE HERE
+
+#endif
